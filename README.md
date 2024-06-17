@@ -89,6 +89,9 @@ Fecha a conexão com o servidor e encerra o cliente.
 
 Integridade do Arquivo JSON: O arquivo livros.json é atualizado automaticamente pelo servidor sempre que ocorre um aluguel, devolução ou cadastro de livro.
 Manutenção: Certifique-se de que o servidor esteja sempre em execução para atender às solicitações dos clientes.
-
+```
 Filipe Mesquita Castelo Branco, Ciência da Computação, 5˚ semestre, Universidade Católica de Brasília, Programação Concorrente e Distribuída.
+```
+```
 Caio Alexandre Cutrim Medeiros, Ciência da Computação, 5˚ semestre, Universidade Católica de Brasília, Programação Concorrente e Distribuída.
+```
