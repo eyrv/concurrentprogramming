@@ -17,11 +17,11 @@ Clone o repositório para sua máquina local:
 git clone https://github.com/seu-usuario/BibliotecaSocket.git
 ```
 
-## Baixar e Adicionar a Biblioteca GSON
+## 2. Baixar e Adicionar a Biblioteca GSON
 
 Certifique-se de que o arquivo gson-2.8.9.jar está na pasta lib/. Se não estiver, baixe-o do site oficial do Gson e coloque-o na pasta lib.
 
-## Compilando o Projeto
+## 3. Compilando o Projeto
 
 Para compilar o projeto, siga as instruções abaixo:
 
